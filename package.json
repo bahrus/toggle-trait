@@ -4,7 +4,14 @@
   "description": "Add toggle behavior to other elements",
   "main": "toggle-trait.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "es-dev-server --app-index demo/dev.html --node-resolve --watch --open"
+  },
+  "dependencies": {
+    "xtal-decor": "0.0.7"
+  },
+  "devDependencies": {
+    "es-dev-server": "1.57.2"
   },
   "repository": {
     "type": "git",
