@@ -5,7 +5,7 @@ Turn a button into a toggle button.
 ## Example syntax:
 
 ```html
-<toggle-trait upgrade=sl-icon-button to-be=a-toggle-button></toggle-trait>
+<toggle-trait upgrade=sl-icon-button if-wants-to-be=a-toggle-button></toggle-trait>
 
 <sl-icon-button name=card-list imma-be-a-toggle-button>Open Drawer</sl-icon-button>
 
