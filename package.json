@@ -8,7 +8,7 @@
     "start": "es-dev-server --app-index demo/dev.html --node-resolve --watch --open"
   },
   "dependencies": {
-    "xtal-decor": "0.0.8"
+    "xtal-decor": "0.0.9"
   },
   "devDependencies": {
     "es-dev-server": "1.57.4"
